@@ -1,0 +1,23 @@
+{
+  "name": "tokar.dev.place_objects_tool",
+  "version": "0.0.1",
+  "displayName": "Place Objects Tool",
+  "description": "Handy editor object placer tool.",
+  "license": "MIT",
+  "publishConfig": {
+    "registry": ""
+  },
+  "samples": [],
+  "author": {
+    "name": "",
+    "email": "",
+    "url": ""
+  },
+  "repository": {
+    "type": "",
+    "url": ""
+  },
+  "hideInEditor": false,
+  "type": "tool",
+  "unity": "2019.3"
+}

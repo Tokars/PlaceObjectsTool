@@ -1,0 +1,11 @@
+{
+    "name": "tokar.dev.object_placer_tool.Runtime.Tests",
+    "references": [
+        "tokar.dev.object_placer_tool.Runtime"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ]
+}

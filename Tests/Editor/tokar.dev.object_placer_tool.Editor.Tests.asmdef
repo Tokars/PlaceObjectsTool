@@ -1,0 +1,14 @@
+{
+    "name": "tokar.dev.object_placer_tool.Editor.Tests",
+    "references": [
+        "tokar.dev.object_placer_tool.Runtime",
+        "tokar.dev.object_placer_tool.Editor"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ]
+}

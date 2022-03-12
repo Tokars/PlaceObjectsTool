@@ -1,0 +1,11 @@
+{
+    "name": "tokar.dev.object_placer_tool.Editor",
+    "references": [
+        "tokar.dev.object_placer_tool.Runtime"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "optionalUnityReferences": []
+}
